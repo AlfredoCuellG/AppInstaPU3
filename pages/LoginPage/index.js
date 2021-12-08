@@ -1,2 +1,3 @@
 export {default} from "./Login.page";
-//EXPORT DE LA PANTALLA DE LOGIN
+
+//Export de la pantalla de login.
